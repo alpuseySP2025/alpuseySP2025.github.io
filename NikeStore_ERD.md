@@ -32,6 +32,7 @@ erDiagram
         string phone "^"
     }
     TRANSACTION_PRODUCT {
+        string transactionProductId PK "Randomly generated"
         string transactionId FK
         string SKU FK
         string name "SKU details for future reference if original changed"
