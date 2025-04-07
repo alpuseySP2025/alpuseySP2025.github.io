@@ -1,0 +1,16 @@
+{
+  "name": "alpuseysp2025.github.io",
+  "version": "1.0.0",
+  "description": "Ammon Pusey - alpusey@my.waketech.edu",
+  "main": "cti_110_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.14.1"
+  }
+}
